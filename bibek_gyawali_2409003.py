@@ -127,7 +127,7 @@ plt.show()
 
 #3.2 Problem - 2 - Some Advance Data Exploration Task:
 
-# Task - 1: Setup Task - Preparing the South-Asia Dataset
+# Task - 1: Setup Task - Preparing the South-Asia
 
 # 1. Define South Asian countries
 south_asian_countries = ["Afghanistan", "Bangladesh", "Bhutan", "India",
